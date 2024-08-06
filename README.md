@@ -1,6 +1,7 @@
+![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-Welcome! I'm a Junior at WVU majoring in Computer Science and Finance, with a passion for software development, full stack, and all things tech. **Began being active in GitHub just a few months ago, still learning a lot!**
+Hey! I'm a Junior at WVU majoring in Computer Science and Finance, with a passion for software development. **Began being active in GitHub just a few months ago, still learning a lot!**
 
 ## 💻 Skills & Technologies
 
@@ -18,7 +19,7 @@ Welcome! I'm a Junior at WVU majoring in Computer Science and Finance, with a pa
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
 </div>
 
-- **Programming Languages**:
+- **Other**:
   
 <div>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -52,37 +53,31 @@ Welcome! I'm a Junior at WVU majoring in Computer Science and Finance, with a pa
 
 ## 📚 Education
 - **West Virginia University**
-  - Majors: Computer Science and Finance
-  - Relevant Courses: Operating Systems, Analysis of Algorithms, Data Structures
+  - **Majors**: Computer Science and Finance
+  - **Relevant Courses**: Operating Systems, Analysis of Algorithms, Data Structures
  
 ## 🌱 What I'm Currently Working On
 - **Resume Portfolio**: Building a responsive website to display my skills, experience, and involvement.
-- **Learning HTML, CSS, and JavaScript**: Deepening my knowledge of structuring, styling, and adding effects to my website.
+- **HTML, CSS, JavaScript**: Deepening my knowledge of structuring, styling, and adding effects to my website.
 
 ## 🚀 Projects
 - **BNANA**: Built a 2D platformer game for the player to dodge traps, collect bananas, and progress through levels.
-  - Technologies used: **C#**, Unity
+  - Technologies: **C#**, Unity
 - **Pong**: Created a pong replica with a point system, local multiplayer, and 2D physics.
-  - Technologies used: **Lua**, Love2D
+  - Technologies: **Lua**, Love2D
 - **Resume Portfolio**: Described above in "What I'm Currently Working On"
-  - Technologies used: **HTML, CSS, JavaScript**, VSCode
-- **Efficient Tables**: 
-  - Technologies used: **Java**, Eclipse
-
-## 🏆 Achievements
-- **Dean's List**: 3 Semesters
-- **Certifications**: .
-
-## 📫 How to Reach Me
-- **Email**: lucasmgraham2@gmail.com <a href="lucasmgraham2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-- <a href="https://www.linkedin.com/in/lmg42" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-- **Portfolio**: In the works.
+  - Technologies: **HTML, CSS, JavaScript**, VSCode
+- **Efficient Tables**: Worked on developing efficient tables in Java, including a Hash, XML, JSON, Binary, CSV, Search, and Lookup table.
+  - Technologies: **Java**, Eclipse
 
 ## 💡 Fun Facts
-- I'm a huge fan of Web Development!
-- I love to challenge myself with difficult leetcode questions.
+- I'm a huge fan of building websites and developing web based applications!
+- I love to challenge myself by actively searching for new things to learn.
 - In my free time, I enjoy rock climbing and bouldering.
 
+## 📫 How to Reach Me
+<a href="mailto:lucasmgraham2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+<a href="https://www.linkedin.com/in/lmg42" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 <!---
 lucasmgraham2/lucasmgraham2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -57,15 +57,19 @@ Hey! I'm a Junior at WVU majoring in Computer Science and Finance, with a passio
   - **Relevant Courses**: Operating Systems, Analysis of Algorithms, Data Structures
  
 ## 🌱 What I'm Currently Working On
-- **Resume Portfolio**: Building a responsive website to display my skills, experience, and involvement.
-- **HTML, CSS, JavaScript**: Deepening my knowledge of structuring, styling, and adding effects to my website.
+- **Concert App**: Building a mobile app with React-Native, implementing data from the setlist.fm api.
+- **React.js & JavaScript**: Deepening my knowledge of structuring, styling, and adding effects to my website.
 
 ## 🚀 Projects
+- **Concert Mobile App**: Described in the "What I'm Currently Working On" section.
+  - Technologies: **JavaScript**, React-Native
+- **Weather Comparison Web App**: Built a web app that compares weather data based on location accessing NOAA data.
+  - Technologies: **HTML, CSS, JavaScript**, React
 - **BNANA**: Built a 2D platformer game for the player to dodge traps, collect bananas, and progress through levels.
   - Technologies: **C#**, Unity
 - **Pong**: Created a pong replica with a point system, local multiplayer, and 2D physics.
   - Technologies: **Lua**, Love2D
-- **Resume Portfolio**: Described above in "What I'm Currently Working On"
+- **Resume Portfolio**: A responsive website to display my skills, experience, and involvement.
   - Technologies: **HTML, CSS, JavaScript**, VSCode
 - **Efficient Tables**: Worked on developing efficient tables in Java, including a Hash, XML, JSON, Binary, CSV, Search, and Lookup table.
   - Technologies: **Java**, Eclipse

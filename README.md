@@ -1,7 +1,7 @@
 ![https://media.giphy.com/media/vFKqnCdLPNOKc/giphy](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
-Hey! I'm a Junior at WVU majoring in Computer Science and Finance, with a passion for software development. **Began being active in GitHub just a few months ago, still learning a lot!**
+Hey👋 I'm Luke, a Junior majoring in Computer Science and Finance.
 
 ## 💻 Skills & Technologies
 
@@ -58,26 +58,26 @@ Hey! I'm a Junior at WVU majoring in Computer Science and Finance, with a passio
  
 ## 🌱 What I'm Currently Working On
 - **Concert App**: Building a mobile app with React-Native, implementing data from the setlist.fm api.
-- **React.js & JavaScript**: Deepening my knowledge of structuring, styling, and adding effects to my website.
+- **React.js & JavaScript**: Deepening my knowledge of structuring, styling, and developing mobile apps.
 
 ## 🚀 Projects
-- **Concert Mobile App**: Described in the "What I'm Currently Working On" section.
+- **Mobile App**: Described in the "What I'm Currently Working On" section.
   - Technologies: **JavaScript**, React-Native
 - **Weather Comparison Web App**: Built a web app that compares weather data based on location accessing NOAA data.
-  - Technologies: **HTML, CSS, JavaScript**, React
+  - Technologies: **HTML, CSS, JavaScript, Python, SQL**, React, Node.js
 - **BNANA**: Built a 2D platformer game for the player to dodge traps, collect bananas, and progress through levels.
   - Technologies: **C#**, Unity
 - **Pong**: Created a pong replica with a point system, local multiplayer, and 2D physics.
   - Technologies: **Lua**, Love2D
 - **Resume Portfolio**: A responsive website to display my skills, experience, and involvement.
-  - Technologies: **HTML, CSS, JavaScript**, VSCode
+  - Technologies: **HTML, CSS, JavaScript**
 - **Efficient Tables**: Worked on developing efficient tables in Java, including a Hash, XML, JSON, Binary, CSV, Search, and Lookup table.
   - Technologies: **Java**, Eclipse
 
 ## 💡 Fun Facts
-- I'm a huge fan of building websites and developing web based applications!
-- I love to challenge myself by actively searching for new things to learn.
-- In my free time, I enjoy rock climbing and bouldering.
+- I enjoy web development and linux a lot.
+- I like to learn new things.
+- In my free time, I enjoy spikeball, bouldering, and hanging out with friends.
 
 ## 📫 How to Reach Me
 <a href="mailto:lucasmgraham2@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
